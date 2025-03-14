@@ -1,0 +1,16 @@
+# Virtual environment folder
+venv/
+
+# Environment variable file
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Large media files (if any)
+*.mp4
+*.wav
+
+# Other common ignores
+*.log
